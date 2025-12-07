@@ -92,6 +92,42 @@
 
 ---
 
+# 🚀 PROJECT SHOWCASE
+
+<div align="center">
+
+<table>
+<tr>
+
+<!-- Career-Path-AI -->
+<td width="45%" align="center">
+
+### 🤖 CareerPath-AI  
+AI-powered personalized career decision tool.  
+**Tech:** JavaScript  
+
+[![Live](https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://carrer-advisor.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/thevibingteen/Career-Path-AI)
+
+</td>
+
+### 🎨 Meta Frontend Capstone  
+Responsive front-end project from Meta Certification.  
+**Tech:** HTML • CSS • JavaScript • React  
+
+[![Live](https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=vercel)](https://meta-frontend-capstone-red.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/thevibingteen/meta-frontend-capstone)
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+
+
 ## 📊 <b><i>GitHub Stats</i></b>
 
 <p align="center">
