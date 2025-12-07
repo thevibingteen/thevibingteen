@@ -126,6 +126,18 @@
 ###
 
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/thevibingteen?theme=dark&font=Roboto&ext=heatmap" width="700px" />
+</div>
+
+
+
+
+
+
+
+
+
 
 
 
