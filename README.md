@@ -38,7 +38,7 @@
 - 🏆 Participated in multiple <b>hackathons and college activities</b>
 - 🌱 Constantly learning new technologies and experimenting with new tools
 - 📍 Based in <b>Mathura, Uttar Pradesh, India</b>
-- 🚀 Originally from <b>Gorakhpur, Uttar Pradesh, India</b>
+
 
 ---
 
@@ -347,13 +347,13 @@ Anubhav Singh • Vansh Gupta • Suraj Singh • Saumitra Mishra
 
 ### Intermediate — CBSE
 
-**Little Flower School, GIDA, Gorakhpur**  
+**Little Flower School**  
 **2023**  
 **62%**
 
 ### High School — CBSE
 
-**Little Flower School, GIDA, Gorakhpur**  
+**Little Flower School**  
 **2021**  
 **87.2%**
 
@@ -561,12 +561,6 @@ practical problem-solving experience.
 ---
 
 ## 📫 <b><i>Contact</i></b>
-
-**Email:** gkpsurajsingh2005@gmail.com
-
-**Location:** Mathura, Uttar Pradesh, India
-
-**Origin:** Gorakhpur, Uttar Pradesh, India
 
 **Availability:** Immediate
 
